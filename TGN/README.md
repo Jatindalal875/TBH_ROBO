@@ -1,1 +1,0 @@
-🙂 Kanger nahi ha dc
