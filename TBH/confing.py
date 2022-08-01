@@ -1,7 +1,7 @@
 import os
 import sys
 from envparse import env
-from TGN import LOGGER
+from TBH import LOGGER
 
 
 DEFAULTS = {
