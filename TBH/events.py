@@ -7,8 +7,8 @@ from pathlib import Path
 from telethon import events
 
 from pymongo import MongoClient
-from TGN import MONGO_DB_URI
-from TGN import telethn
+from TBH import MONGO_DB_URI
+from TBH import telethn
 
 client = MongoClient()
 client = MongoClient(MONGO_DB_URI)
