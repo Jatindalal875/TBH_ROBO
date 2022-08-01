@@ -1,4 +1,5 @@
 # Create a new config.py or rename this to config.py file in same dir and import, then extend this class.
+# CREDITS FOR THIS REPO GOES TO @GODFATHERAKKII & TGN-ROBOT
 import json
 import os
 
