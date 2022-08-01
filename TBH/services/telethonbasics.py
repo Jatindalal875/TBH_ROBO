@@ -2,7 +2,7 @@ import os
 
 from telethon.tl.types import *
 
-from TGN.utils.pluginhelper import runcmd
+from TBH.utils.pluginhelper import runcmd
 
 
 async def convert_to_image(event, borg):
