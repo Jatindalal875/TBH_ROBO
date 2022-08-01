@@ -2,7 +2,7 @@ import codecs
 import pickle
 from typing import Dict, List, Union
 
-from TGN.mongo import db
+from TBH.mongo import db
 
 restart_stagedb = db.restart_stage
 captchadb = db.captcha
