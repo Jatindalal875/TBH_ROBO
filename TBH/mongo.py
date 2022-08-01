@@ -1,10 +1,11 @@
+# CREDITS FOR THIS REPO GOES TO @GODFATHERAKKII & TGN-ROBOT
 import asyncio
 import sys
 from motor import motor_asyncio
 from pymongo import MongoClient
 from pymongo.errors import ServerSelectionTimeoutError
-from TGN import MONGO_DB_URI
-from TGN.confing import get_int_key, get_str_key
+from TBH import MONGO_DB_URI
+from TBH.confing import get_int_key, get_str_key
 
 
 MONGO_PORT = get_int_key("27017")
