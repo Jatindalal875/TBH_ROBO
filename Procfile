@@ -1,1 +1,1 @@
-worker: python3 -m TGN
+worker: python3 -m TBH
